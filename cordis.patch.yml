@@ -1,0 +1,3 @@
+- insert:
+    - id: project-radar
+      name: '@supertiny99/dsh-project-radar'
